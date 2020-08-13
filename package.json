@@ -1,0 +1,30 @@
+{
+  "name": "react-native-ui-tools",
+  "version": "0.6.0",
+  "description": "Bunch of components made for react-native to give more ability to have some nice features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmyrAhmady/react-native-ui-tools.git"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "components",
+    "ui",
+    "tools",
+    "toolkit",
+    "framework",
+    "android",
+    "ios"
+  ],
+  "author": "iAmir (Amyr Ahmady)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmyrAhmady/react-native-ui-tools/issues"
+  },
+  "homepage": "https://github.com/AmyrAhmady/react-native-ui-tools#readme"
+}
