@@ -1,6 +1,8 @@
 
 ![downloads](https://img.shields.io/npm/dt/react-native-ui-tools.svg)
 
+[npm link](https://www.npmjs.com/package/react-native-ui-tools)
+
 # Some info
 Bunch of components made for react-native to give more ability to have some nice features.
 I didn't want to release this as I wanted to have much more components than it has right now, but couldn't wait since I wanted to use it for my own projects as well.
@@ -18,6 +20,11 @@ I didn't want to release this as I wanted to have much more components than it h
 - [Popup](#Popup) (with preview)
 - [Bubble](#Bubble) (with preview)
 
+
+# Installation
+```
+npm i react-native-ui-tools
+```
 
 # Example
 
