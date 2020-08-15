@@ -107,7 +107,7 @@ export default class Menu extends React.Component {
         key={this.props.keyExtractor(option)}
         onPress={() => this.onChange(option)}
         activeOpacity={0.2}
-        importantForAccessibility={isFirstItem}
+        importantForAccessibility={isFirstItem ? 'yes' : 'no'}
       >
         <View style={[styles.itemStyle, this.props.itemStyle, isLastItem && { borderBottomWidth: 0 }]}>
           {component}
