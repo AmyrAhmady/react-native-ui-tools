@@ -59,6 +59,10 @@ export default class Popup extends Component {
     this.setState({ visible: true })
   }
 
+  close() {
+    this.setState({ visible: false })
+  }
+
   render() {
 
     const {
