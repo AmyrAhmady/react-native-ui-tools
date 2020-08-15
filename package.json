@@ -1,6 +1,6 @@
 {
   "name": "react-native-ui-tools",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Bunch of components made for react-native to give more ability to have some nice features",
   "main": "index.js",
   "scripts": {
